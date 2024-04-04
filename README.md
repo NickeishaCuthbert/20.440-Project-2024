@@ -10,9 +10,9 @@ This repository contains code and data sets necessary to reproduce the figure in
 ## Data
 The data sets used in this study were generated from separate studies. Ximerakis et al. analyzed and produced a “Single-cell transcriptomic profiling of the aging mouse brain”. Brivio, et al. produced 10X raw sequencing data to look at transcriptional signatures of stress exposure in the mouse hypothalamus. 
 
-Data set: https://portals.broadinstitute.org/single_cell/study/aging-mouse-brain
+Data set 1: https://portals.broadinstitute.org/single_cell/study/aging-mouse-brain
 
-Data set: https://male-female-stress.shinyapps.io/shinyapp/
+Data set 2: https://male-female-stress.shinyapps.io/shinyapp/
 
 
 ## Folder Structure
