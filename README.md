@@ -10,6 +10,10 @@ This repository contains code and data sets necessary to reproduce the figure in
 ## Data
 The data sets used in this study were generated from separate studies. Ximerakis et al. analyzed and produced a “Single-cell transcriptomic profiling of the aging mouse brain”. Brivio, et al. produced 10X raw sequencing data to look at transcriptional signatures of stress exposure in the mouse hypothalamus. 
 
+Data set: https://portals.broadinstitute.org/single_cell/study/aging-mouse-brain
+
+Data set: https://male-female-stress.shinyapps.io/shinyapp/
+
 
 ## Folder Structure
 Code: This folder contains the R code used to analyze the scRNA seq data and generate the figure in 	the figure folder.
@@ -24,7 +28,6 @@ Running the included code requires setting up a directory to save the code as we
 
 ## References:
 Ximerakis, M., et al. Single-cell transcriptomic profiling of the aging mouse brain. Nat. Neurosci. 22, 1696–1708 (2019).
-Data set: https://portals.broadinstitute.org/single_cell/study/aging-mouse-brain
 
 Brivio, E., et al. Sex shapes cell-type-specific transcriptional signatures of stress exposure in the mouse hypothalamus. Cell reports vol. 42,8 (2023).
-Data set: https://male-female-stress.shinyapps.io/shinyapp/
+
