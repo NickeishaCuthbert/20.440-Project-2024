@@ -19,16 +19,8 @@ Data set: https://male-female-stress.shinyapps.io/shinyapp/
 
 ## Folder Structure
 Code: This folder contains the R code used to analyze the scRNA seq data and generate the figure in 	the figure folder.
-Data: This folder contains the data sets
-	data_old: this sub-folder contains the scRNA seq data for the old mice
-	data_young: this sub-folder contains the scRNA seq data for the young mice
-	data_stress: this sub-folder contains the scRNA seq data for mouse hypothalamus after stress 		     exposure
+Data: This folder contains the citations and links to the two data sets used in this study
 Figure: This folder contains the figure that was generated.
-RDS_files: This folder contains .rds files generated from the R script to be used for saving and  
-	   loading single R objects generated throughout the code. This allows objects to be reloaded 
-	   after the R session is closed. This is to combat lower processing power that may cause the 
-	   computer system to overload [vector memory exhausted (limit reached?)] when running the 
-	   code.
 
 ## Installation
 Running the included code requires the most recent R software (R language, RStudio). Afterwards, the packages at the beginning of the code can be installed and loaded. The code will run after this to generate the figure included.
