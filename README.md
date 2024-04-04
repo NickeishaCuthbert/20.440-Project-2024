@@ -3,7 +3,7 @@
 Group Members: Nickeisha Cuthbert, Emma Finburgh
 
 ## Overview
-Project Title: Evaluating the Correlation between Stress and Age in the Mouse Brain at the Single Cell Transcriptomic Cell
+Project Title: Evaluating the Correlation between Stress and Age in the Mouse Brain at the Single Cell Transcriptomic Level
 
 This repository contains code and data sets necessary to reproduce the figure in the figure folder titled, "Stress_age_umap_plot.png". Based on the previously known correlated effects of aging and stress on the brain, this preliminary analysis (processing, integration, and dimensional reduction) was done to combine two data sets and cluster cells based on similar transcriptional profiles (in the UMAP visualization). The code was generated in the R language (RStudio) for analysis of single cell RNA seq data originating from two different data sets, where the stress data (Brivio, et al) was processed similarly to the age data provided by Ximerakis, et al and then both data sets were combined and clustered.
 
